@@ -1,5 +1,21 @@
 # 💫 About Me:
-<br>💻 Backend Developer with focus on **Java & Spring Boot**<br> 🌐 Full Stack Developer working with the **MERN Stack**<br>🤖 Exploring **Machine Learning & AI**<br>🧠 Interested in building **scalable systems and intelligent applications**<br>🚀 Always learning new technologies and improving my coding skills<br><br>🛠 Tech Stack<br><br>Backend : Java, Spring Boot, REST APIs<br>Frontend:  React.js<br>Database: MongoDB, MySQL<br>ML: Python, Scikit-learn, Data Analysis<br>Tools: Git, Docker, Postman<br><br>
+<br>💻 Backend Developer with focus on **Java & Spring Boot**<br> 🌐 Full Stack Developer working with the **MERN Stack**<br>🤖 Exploring **Machine Learning & AI**<br>🧠 Interested in building **scalable systems and intelligent applications**<br>🚀 Always learning new technologies and improving my coding skills<br><br>🛠 ## Tech Stack
+
+**Languages:** Java, Python, C++, JavaScript  
+
+**Backend:** Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs, Microservices Architecture  
+
+**Frontend:** React.js  
+
+**Databases:** MongoDB, MySQL, PostgreSQL  
+
+**Technologies:** WebSockets, Redis  
+
+**Data & ML:** PyTorch, TensorFlow, NumPy, Matplotlib, Scikit-learn  
+
+**Tools / Platforms:** Git, Docker, GitHub, GitHub Actions (CI/CD), Maven, Postman  
+
+**Coursework:** DSA, OOP, OS, Networks, DBMS
 
 
 ## 🌐 Socials:
