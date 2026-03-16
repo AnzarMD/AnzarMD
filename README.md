@@ -6,7 +6,8 @@
 🗄️ Working with databases like **MongoDB, MySQL, and PostgreSQL**  
 🤖 Exploring **Machine Learning & Data Science** using **Python, PyTorch, TensorFlow, and Scikit-learn**  
 ⚙️ Familiar with development tools like **Docker, Git, GitHub Actions (CI/CD), Maven, and Postman**  
-🚀 Passionate about **building scalable systems and continuously learning new technologies**🛠 Tech Stack
+🚀 Passionate about **building scalable systems and continuously learning new technologies**
+🛠 Tech Stack
 
 **Languages:** Java, Python, C++, JavaScript  
 
