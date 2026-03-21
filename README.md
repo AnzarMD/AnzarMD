@@ -9,7 +9,7 @@
 🚀 Passionate about **building scalable systems and continuously learning new technologies**<br><br>
 🛠 Tech Stack
 
-**Languages:** Java, Python, C++, JavaScript  
+**Languages:** Java, Python, C++, JavaScript. 
 
 **Backend:** Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs, Microservices Architecture  
 
