@@ -1,6 +1,6 @@
 # 💫 About Me
 
-💻 Backend Developer specializing in **Java, Spring Boot, Spring Data JPA, and REST APIs**
+💻 Backend Developer specializing in **Java, Spring Boot, Spring Data JPA, and REST APIs** 
 🌐 Full Stack Developer building applications with **React.js, Node.js, and Express.js (MERN Stack)**  
 🧩 Experienced in designing **Microservices Architecture and scalable backend systems**  
 🗄️ Working with databases like **MongoDB, MySQL, and PostgreSQL**  
