@@ -21,7 +21,7 @@
 
 **Data & ML:** PyTorch, TensorFlow, NumPy, Matplotlib, Scikit-learn  
 
-**Tools / Platforms:** Git, Docker, GitHub, GitHub Actions (CI/CD), Maven, Postman 
+**Tools / Platforms:** Git, Docker, GitHub, GitHub Actions (CI/CD), Maven, Postman
 
 **Coursework:** DSA, OOP, OS, Networks, DBMS
 
