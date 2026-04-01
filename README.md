@@ -11,7 +11,7 @@
 
 **Languages:** Java, Python, C++, JavaScript. 
 
-**Backend:** Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs, Microservices Architecture 
+**Backend:** Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs, Microservices Architecture
 
 **Frontend:** React.js  
 
